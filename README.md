@@ -8,7 +8,8 @@
 <br/>
 
 **💻 Languages and Tools**
-JAVASCRIPT || REACTJS || CSS || HTML
+<br/>
+JAVASCRIPT || REACTJS || CSS || HTML <br/>
 VSCODE || GITHUB
 
 
